@@ -1,0 +1,24 @@
+{
+  "name": "@fly-rains/cli",
+  "version": "1.1.0",
+  "description": "相关cli命令",
+  "main": "./bin/micro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "micro": "./bin/micro.js" // 微前端启动命令
+  },
+  "author": "fly-rains",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "fix-path": "^3.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "inquirer-search-checkbox": "^1.0.0",
+    "npm-run-path": "^4.0.1",
+    "shelljs": "^0.8.4",
+    "yargs": "^16.2.0"
+  }
+}

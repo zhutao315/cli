@@ -1,0 +1,23 @@
+{
+  "root": "D:\\workProjects\\micros-project\\packages",
+  "list": [
+    "main",
+    "micro-1",
+    "micro-2"
+  ],
+  "map": {
+    "main": {
+      "name": "main-front",
+      "dir": "D:\\workProjects\\micros-project\\packages\\main-front",
+      "checked": true
+    },
+    "micro-1": {
+      "micro-1": "micro-1-front",
+      "dir": ""
+    },
+    "micro-2": {
+      "micro-1": "micro-2-front",
+      "dir": ""
+    }
+  }
+}
